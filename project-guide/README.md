@@ -54,4 +54,6 @@ Run these commands in a terminal to download this repository, then enter its fol
 git clone https://github.com/varenyap09/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
+## License
 
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
