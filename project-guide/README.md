@@ -25,8 +25,9 @@ A learning journal for students practicing technical communication with GitHub M
 Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
 
 ## Installation
+Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+git clone https://github.com/varenyap09/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
