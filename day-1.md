@@ -20,3 +20,4 @@ $$
 p = \frac{c}{t} \times 100
 $$
 
+p is the percent, c is the cost, and t is the time 
