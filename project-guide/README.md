@@ -54,6 +54,11 @@ Run these commands in a terminal to download this repository, then enter its fol
 git clone https://github.com/varenyap09/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
+##Contributing 
+You can fork and create a branch with the create branch option in github, make a focused change by clicking on that branch and editing the file, preview markdown and check links by going through the files of your code, and open a pull request by clicking the pull requests option. 
+
+##Support
+
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
