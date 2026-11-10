@@ -58,7 +58,7 @@ cd skills-communicate-using-markdown
 To create a branch, toggle the dropdown list below the main branch and select Add Branch. To create a pull request, push changes to a separate branch and click "Compare & pull request".
 
 ## Support
-To ask for help, go to the [issues tab](../Issues). Include the lesson number, attempted action, and the error message. Avoid posting private info.
+To ask for help, go to the [issues tab](https://github.com/varenyap09/bug-free-octo-robot/issues). Include the lesson number, attempted action, and the error message. Avoid posting private info.
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
