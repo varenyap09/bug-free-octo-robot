@@ -54,10 +54,10 @@ Run these commands in a terminal to download this repository, then enter its fol
 git clone https://github.com/varenyap09/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
-##Contributing 
+## Contributing 
 To create a branch, toggle the dropdown list below the main branch and select Add Branch. To create a pull request, push changes to a separate branch and click "Compare & pull request".
 
-##Support
+## Support
 To ask for help, go to the [issues tab] (../Issues)
 ## License
 
