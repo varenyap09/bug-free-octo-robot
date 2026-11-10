@@ -62,3 +62,13 @@ To ask for help, go to the [issues tab](https://github.com/varenyap09/bug-free-o
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
+## Troubleshooting
+If you get an error that there is "No such file or directory", enter the cloned repository folder and checking that the journal exists on the selected branch.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
